@@ -1,0 +1,8 @@
+{
+  "name": "simple-web-parcel",
+  "version": "1.0.0",
+  "description": "A simple scaffold web application with Parcel instead of webpack, Gulp, Grunt, etc.",
+  "repository": "https://github.com/jeantsai/simple-web-parcel.git",
+  "author": "jeantsai <jeantsai@qq.com>",
+  "license": "MIT"
+}
