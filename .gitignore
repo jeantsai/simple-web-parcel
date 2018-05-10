@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# Yarn log file
+/yarn*.log
+
+# Jetbrains IDE meta data
+.idea
+
+# Mac OS X meta data
+
+
