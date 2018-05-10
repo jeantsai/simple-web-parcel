@@ -63,6 +63,9 @@ typings/
 # Jetbrains IDE meta data
 .idea
 
+# Parcel cache
+/.cache
+
 # Mac OS X meta data
 
 
