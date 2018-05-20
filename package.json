@@ -9,10 +9,13 @@
   "repository": "https://github.com/jeantsai/simple-web-parcel.git",
   "author": "jeantsai <jeantsai@qq.com>",
   "license": "MIT",
+  "resolutions": {
+    "parcel-bundler/cssnano": "4.0.0-rc.2"
+  },
   "devDependencies": {
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
-    "mdbootstrap": "^4.5.2",
+    "mdbootstrap": "file:./forks/mdbootstrap",
     "parcel-bundler": "^1.8.1",
     "popper.js": "^1.14.3"
   },

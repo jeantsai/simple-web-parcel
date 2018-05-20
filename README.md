@@ -7,6 +7,10 @@ We create a simplest SPA scaffolding project with Parce as its build, package an
 
 Your need install NodeJS and Yarn in order to build and run this project.
 
+# What's new in branch mdbootstrap
+
+Add facilities for supporting MDBootstrap.
+
 
 # Usage
 

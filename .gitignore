@@ -66,6 +66,7 @@ typings/
 # Parcel cache
 /.cache
 /tmp
+/dist
 
 # Mac OS X meta data
 
